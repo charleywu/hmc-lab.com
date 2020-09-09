@@ -1,0 +1,23 @@
+---
+name: This could be you!
+position: phd
+avatar: you.png
+twitter:
+joined: 2020
+---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+<hr>
+<i class = "fa fa-file"></i> Job advertisement coming soon!
+
+### Bio
+
+This could be you! We are currently seeking motivated individuals to fill two fully funded PhD positions studying the computational strategies that allow humans to perform massively scalable inference and rapidly adapt to novel environments, both alone and in social environments. You should have a Masters degree in a related discipline and experience with computational/experimenta/neuroscientific methods will be desirable. Both the start date and the exact research topic are negotiable
+
+
+The official call for applications will be released soon, but in the meantime, feel free to contact Charley directly by email ([charleymswu[at]gmail[dot]com](mailto:charleymswu@gmail.com)) for more information. As an informal heads up, the application materials typically consist of a cover letter, CV, and a one-page description of your research interests.  
+
+
+
+

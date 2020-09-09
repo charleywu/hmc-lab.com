@@ -1,0 +1,138 @@
+---
+---
+<div class="text-justify">{{reference}}</div>
+<button class="button"  onclick="toggleBibtex{{entry.key}}()" style= "border-color: #008CBA;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;">Bibtex</button>
+ 
+{% if entry.doi %}
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank" ><input class="button button1" type="button" value="doi" style= "border-color: #4CAF50;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;"/></a>
+{% endif %}
+ 
+ 
+{% if entry.link %}
+    <a href="{{ entry.link }}" target="_blank" ><input class="button button1" type="button" value="doi" style= "border-color: #4CAF50;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;" /></a>
+{% endif %}
+
+
+{% if entry.preprint %}
+    <a href="{{ entry.preprint }}" target="_blank" ><input class="button button2" type="button" value="preprint" style= "border-color: #A9E2AD;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;" /></a>
+{% endif %}
+
+ 
+{% if entry.code %}
+    <a href="{{ entry.code }}" target="_blank" ><input class="button button3" type="button" value="code" style= "border-color: #f44336;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;" /></a>
+{% endif %}
+
+{% if entry.pdf %}
+ <a href="{{ entry.pdf }}" target="_blank" ><input class="button button1" type="button" value="pdf" style= "border-color: #1D1425;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;"/></a>
+{% endif %}
+
+{% if entry.supp %}
+ <a href="{{ entry.supp }}" target="_blank" ><input class="button button1" type="button" value="SI" style= "border-color: #B283DD;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;"/></a>
+{% endif %}
+
+{% if entry.website %}
+ <a href="{{ entry.website }}" target="_blank" ><input class="button button1" type="button" value="Website" style= "border-color: #fede00;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;"/></a>
+{% endif %}
+
+
+<div id="a{{entry.key}}" style="display: none;">
+<pre>{{entry.bibtex}}</pre>
+</div>
+<script>
+function toggleBibtex{{entry.key}}(parameter) {
+    var x= document.getElementById('a{{entry.key}}');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>

@@ -1,0 +1,92 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "HMC lab"
+title:              "Human and Machine Cognition lab at the University of Tübingen"
+description:        "The HMC lab is an independent research group at the University of Tübingen, jointly funded by the [Cluster of Excellence ``Machine Learning for Science''](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) and the [Tübingen AI center](https://tuebingen.ai/). "
+
+
+# URL
+url:                http://hmclab.com
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge 
+
+# Navigation
+nav:
+  - name:           "home" 
+    href:           "/"
+  - name:           "people"
+    href:           "/people"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "resources"
+    href:           "/resources"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.md
+
+#jekyll scholar
+scholar:
+  style: _bibliography/apa.csl
+  locale: en
+
+  sort_by: year
+  order: descending
+  bibliography_list_tag: ul
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: bibtemplate
+  bibtex_filters:
+    - latex
+
+
+  replace_strings: true
+  #join_strings:    true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
+#Emojis
+plugins:
+  - jemoji
