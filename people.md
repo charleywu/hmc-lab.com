@@ -66,7 +66,7 @@ This is in no way a complete list of collaborators. If we've accidentally left y
 **Harvard University:**
 - [Sam Gershman - Dept of Psychology and Center for Brains, Minds, and Machines](http://gershmanlab.webfactional.com/people/sam.html){:target="_blank"}
 - [Fiery Cushman - Dept of Psychology](https://psychology.fas.harvard.edu/people/fiery-cushman){:target="_blank"}
-- [Natalia Vélez - Dept of Psychology](http://gershmanlab.webfactional.com/people/natalia.html){:target="_blank"}
+- [Natalia Vélez - and Center for Brains, Minds, and Machines](http://gershmanlab.webfactional.com/people/natalia.html){:target="_blank"}
 
 **Princeton University:**
 - [Mark Ho - Computational Cognitive Science Lab](https://markkho.github.io/){:target="_blank"}
@@ -96,7 +96,7 @@ This is in no way a complete list of collaborators. If we've accidentally left y
 
 
 **l'Université Côte d'Azur:**
-- [Imen Bouhlel - Groupe de Recherche en Droit, Economie, Gestion](http://unice.fr/membres/tous-les-membres/gredeg/bouhlel-imen){:target="_blank"}
+- [Imen Bouhlel - Groupe de Recherche en Droit, Economie, et Gestion](http://unice.fr/membres/tous-les-membres/gredeg/bouhlel-imen){:target="_blank"}
  
 **University of Indiana, Bloomington:**
 - [Rob Goldstone - Psychological and Brain Sciences](https://pcl.sitehost.iu.edu/rgoldsto/rob.html){:target="_blank"}

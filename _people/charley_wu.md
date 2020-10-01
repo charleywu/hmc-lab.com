@@ -7,19 +7,20 @@ twitter: thecharleywu
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Independent Research Group Leader, University of Tübingen_<br>
+_Independent Research Group Leader, University of Tübingen_<br>
 
 
 <i class="fa fa-envelope-o"></i> [charleymswu[at]gmail[dot]com](mailto:charleymswu@gmail.com) <br>
 <!-- <i class="fa fa-building"></i> RIC 1481 <br> -->
 <i class="fa fa-bar-chart"></i> [Google scholar](https://scholar.google.com/citations?user=1O2hcVgAAAAJ&hl) <br>
-<i class = "fa fa-home"></i> [Personal website](charleywu.github.io/)<br>
+<i class = "fa fa-home"></i> [Personal website](https://charleywu.github.io/)<br>
 <i class = "fa fa-twitter"></i> [@TheCharleyWu](https://twitter.com/TheCharleyWu)<br>
 <i class = "fa fa-file"></i> [CV (pdf)](https://charleywu.github.io/assets/CharleyWuCv.pdf)
 
-<!-- **Office**<br>
-404B Richards, 3700 Hamilton Walk <br>
-Philadelphia, PA 19104 -->
+**Office**<br>
+AI Research Building,  Room 40-5/A11 <br>
+Maria-von-Linden-Str. 6, 72076 Tübingen,  Germany
+
 
 ### Bio
 

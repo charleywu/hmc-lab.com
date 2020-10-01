@@ -43,13 +43,16 @@ The best way to get a sense of what's currently going on in the lab is to check 
 
 <div align='center'>
     <footer>
-      
-      <!-- Address -->
       <span style="display: block; margin-bottom: 3em"></span>
+      <!-- Logos-->
+      <div class="funding">
+        <a target="_blank" rel="noopener noreferrer" href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/">
+          <img src="{{site.baseurl}}/images/logos/funding.png" alt="Forest" style="height:120px">
+        </a>
+      </div>
+      <!-- Address -->
       University of Tübingen, Cluster of Excellence "Machine Learning" <br>
       Maria-von-Linden-Str. 6, D-72076 Tübingen<br>
-      <span style="display: block; margin-bottom: 3em"></span>
-
     </footer>
 </div>
 

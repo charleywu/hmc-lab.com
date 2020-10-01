@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "HMC lab"
+name:               "HMC-lab"
 title:              "Human and Machine Cognition lab at the University of Tübingen"
 description:        "The HMC lab is an independent research group at the University of Tübingen, jointly funded by the [Cluster of Excellence ``Machine Learning for Science''](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) and the [Tübingen AI center](https://tuebingen.ai/). "
 
 
 # URL
-url:                http://hmclab.com
+url:                http://hmc-lab.com
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html

@@ -1,0 +1,4 @@
+[submodule "_site/hmc-lab.com"]
+	path = _site/hmc-lab.com
+	url = git@github.com:charleywu/hmc-lab.com.git
+	branch = master
