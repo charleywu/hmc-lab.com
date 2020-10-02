@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>HMC-lab</title>
-		<link>http://hmc-lab.com</link>
-		<atom:link href="http://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://hmc-lab.com</link>
+		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Two Fully Funded PhD positions</title>
@@ -15,8 +15,8 @@
 
 </description>
 				<pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
-				<link>http://hmc-lab.com/2020/10/01/JobAd.html</link>
-				<guid isPermaLink="true">http://hmc-lab.com/2020/10/01/JobAd.html</guid>
+				<link>https://hmc-lab.com/2020/10/01/JobAd.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/2020/10/01/JobAd.html</guid>
 			</item>
 		
 	</channel>
