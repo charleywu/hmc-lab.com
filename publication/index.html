@@ -33,13 +33,11 @@
   <meta property="og:site_name" content="Human and Machine Cognition lab at the University of Tübingen">
   <meta property="og:description" content="
   
-  In Prep
-
-
+  
 
 In Press
 
-Meder, B., Wu, C. M., Schulz, E., &amp; Ruggeri, A. (in press). Development of directed and random exploration in childr..." />
+Meder, B., Wu, C. M., Schulz, E., &amp; Ruggeri, A. (in press). Development of directed and random exploration in children. Devel..." />
 
 </head>
 
@@ -102,9 +100,11 @@ s.setAttribute('data-timestamp', +new Date());
 
     <div class="container content page">
   <!-- <h1 class="page-title">Publication</h1> -->
-  <h3 id="in-prep">In Prep</h3>
+  <!--
+### In Prep
 
 <ul class="bibliography"></ul>
+-->
 
 <h3 id="in-press">In Press</h3>
 
@@ -209,6 +209,105 @@ s.setAttribute('data-timestamp', +new Date());
 <script>
 function toggleBibtexmeder2020development(parameter) {
     var x= document.getElementById('ameder2020development');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script></li></ul>
+
+<h3 id="2021">2021</h3>
+
+<ul class="bibliography"><li><div class="text-justify"><span id="zuberer2021integration">Zuberer, A., Kucyi, A., Yamashita, A., Wu, C. M., Walter, M., Valera, E. M., &amp; Esterman, M. (2021). Integration and segregation across large-scale intrinsic brain networks as a marker of sustained attention and task-unrelated thought. <i>NeuroImage</i>, <i>229</i>, 117610. https://doi.org/10.1016/j.neuroimage.2020.117610</span></div>
+<button class="button" onclick="toggleBibtexzuberer2021integration()" style="border-color: #008CBA;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;">Bibtex</button>
+ 
+
+    <a href="http://doi.org/10.1016/j.neuroimage.2020.117610" target="_blank"><input class="button button1" type="button" value="doi" style="border-color: #4CAF50;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;" /></a>
+
+ 
+ 
+
+
+
+
+
+ 
+
+    <a href="https://osf.io/6b83r/" target="_blank"><input class="button button3" type="button" value="code" style="border-color: #f44336;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;" /></a>
+
+
+
+ <a href="https://charleywu.github.io/downloads/zuberer2021integration.pdf" target="_blank"><input class="button button1" type="button" value="pdf" style="border-color: #1D1425;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;" /></a>
+
+
+
+
+
+
+
+<div id="azuberer2021integration" style="display: none;">
+<pre>@article{zuberer2021integration,
+  title = {Integration and segregation across large-scale intrinsic brain networks as a marker of sustained attention and task-unrelated thought},
+  author = {Zuberer, Agnieszka and Kucyi, Aaron and Yamashita, Ayumu and Wu, Charley M and Walter, Martin and Valera, Eve M and Esterman, Michael},
+  journal = {NeuroImage},
+  year = {2021},
+  code = {https://osf.io/6b83r/},
+  volume = {229},
+  pages = {117610},
+  doi = {10.1016/j.neuroimage.2020.117610},
+  pdf = {https://charleywu.github.io/downloads/zuberer2021integration.pdf},
+  keywords = {prep}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexzuberer2021integration(parameter) {
+    var x= document.getElementById('azuberer2021integration');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
