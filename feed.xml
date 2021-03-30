@@ -6,6 +6,18 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Generalization in Reinforcement Learning (lecture slides)</title>
+        <description>&lt;p&gt;Slides from a guest lecture at the University of Ghent. Click here to &lt;a href=&quot;/downloads/GhentRLlecture.pdf&quot;&gt;download the PDF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;object data=&quot;/downloads/GhentRLlecture.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
+				<link>https://hmc-lab.com/2021/03/30/RLlecture.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/2021/03/30/RLlecture.html</guid>
+			</item>
+		
+			<item>
 				<title>Fully Funded PhD position -- Computational Mechanisms of Social Learning</title>
         <description>&lt;p&gt;We are currently seeking a highly motivated individual to fill a fully funded PhD position studying the cognitive strategies that humans use to learn from other people. You should have a Masters degree in a related discipline and experience with computational/experimental/neuroscientific methods will be desirable. Both the start date and the exact research topic are negotiable&lt;/p&gt;
 
