@@ -6,6 +6,22 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Fully Funded PhD position -- Machine learning for education</title>
+        <description>&lt;p&gt;We are currently seeking a highly motivated individual to fill a fully funded PhD position to develop Machine Learning (ML) methods for aiding human learners in self-directed study. Specifically, we aim to expand upon existing &lt;a href=&quot;https://en.wikipedia.org/wiki/Spaced_repetition&quot;&gt;Spaced Repetition&lt;/a&gt; techniques by leveraging the structure of a knowledge domain to facilitate more targeted learning, since low-level concepts provide important scaffolding for understanding higher-level ones. Ultimately, this project will combine novel methods from ML (e.g., graph neural networks, recommender systems, structured prediction) with cognitive and neurological theories of human learning (e.g., optimal memory rehersal, concept maps, compositional learning).&lt;/p&gt;
+
+&lt;p&gt;The position will be jointly advised by &lt;a href=&quot;https://mlcolab.org/&quot;&gt;Álvaro Tejero-Cantero&lt;/a&gt; and &lt;a href=&quot;/people/charley_wu/index.md&quot;&gt;Charley Wu&lt;/a&gt;, with &lt;a href=&quot;http://icall-research.de/&quot;&gt;Detmar Meurers&lt;/a&gt;, &lt;a href=&quot;https://koumurayama.com/&quot;&gt;Kou Murayama&lt;/a&gt;, and &lt;a href=&quot;http://ml3.leuphana.de/ulf.html&quot;&gt;Ulf Brefeld&lt;/a&gt; serving as additional co-advisors. This PhD position is funded as one of four positions within a network project on &lt;a href=&quot;https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/innovation-fund-projects-1/network-projects/#c1376587&quot;&gt;Machine Learning for Education&lt;/a&gt;, providing additional opportunities for interdisciplinary collaboration among related topics.&lt;/p&gt;
+
+&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/MLinEDlabPhDadvertisement2021.pdf&quot;&gt;download the PDF&lt;/a&gt; for more details. The application should be submitted to Elena Sizana by email (&lt;a href=&quot;mailto:elena.sizana@uni-tuebingen.de&quot;&gt;elena.sizana[at]uni-tuebingen[dot]de&lt;/a&gt;) &lt;em&gt;in the exact format specified in the call for applications below&lt;/em&gt;.&lt;/p&gt;
+
+&lt;object data=&quot;/downloads/MLinEDlabPhDadvertisement2021.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<pubDate>Wed, 01 Sep 2021 00:00:00 +0200</pubDate>
+				<link>https://hmc-lab.com/2021/09/01/MLinEDJobAd.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/2021/09/01/MLinEDJobAd.html</guid>
+			</item>
+		
+			<item>
 				<title>Generalization in Reinforcement Learning (lecture slides)</title>
         <description>&lt;p&gt;Slides from a guest lecture at the University of Ghent. Click here to &lt;a href=&quot;/downloads/GhentRLlecture.pdf&quot;&gt;download the PDF&lt;/a&gt;.&lt;/p&gt;
 
