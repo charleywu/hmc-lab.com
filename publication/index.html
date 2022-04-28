@@ -179,7 +179,7 @@ s.setAttribute('data-timestamp', +new Date());
   journal = {PsyArXiv},
   author = {Giron, Anna P and Ciranka, Simon and Schulz, Eric and van den Bos, Wouter and Ruggeri, Azzurra and Meder, Björn and Wu, Charley M},
   year = {submitted},
-  month = apr,
+  keywords = {prep},
   code = {https://github.com/AnnaGiron/developmental_trajectory},
   pdf = {https://charleywu.github.io/downloads/giron2022developmental.pdf}
 }
@@ -448,6 +448,73 @@ function toggleBibtexcollins2022wisdom(parameter) {
 <script>
 function toggleBibtexwu2022representational(parameter) {
     var x= document.getElementById('awu2022representational');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script></li>
+<li><div class="text-justify"><span id="driveforknowledge">Dezza, I. C., Schulz, E., &amp; Wu, C. M. (Eds.). (in press). <i>The Drive for Knowledge: The Science of Human Information-Seeking</i>. Cambridge University Press.</span></div>
+<button class="button" onclick="toggleBibtexdriveforknowledge()" style="border-color: #008CBA;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;">Bibtex</button>
+ 
+
+ 
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ <a href="https://www.cambridge.org/core/books/drive-for-knowledge/B7D7B75B7C1021D2F90089CC1B4C1DBF" target="_blank"><input class="button button1" type="button" value="Website" style="border-color: #fede00;
+    color: black;
+    hover: {color: white; background-color: #555555;};
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 2px 1px;
+    cursor: pointer;
+    border-radius: 5px;" /></a>
+
+
+
+<div id="adriveforknowledge" style="display: none;">
+<pre>@book{driveforknowledge,
+  title = {The Drive for Knowledge: The Science of Human Information-Seeking},
+  editor = {Dezza, Irene Cogliati and Schulz, Eric and Wu, Charley M},
+  year = {in press},
+  keywords = {prep},
+  location = {Cambridge},
+  publisher = {Cambridge University Press},
+  website = {https://www.cambridge.org/core/books/drive-for-knowledge/B7D7B75B7C1021D2F90089CC1B4C1DBF}
+}
+</pre>
+</div>
+<script>
+function toggleBibtexdriveforknowledge(parameter) {
+    var x= document.getElementById('adriveforknowledge');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
