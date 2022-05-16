@@ -6,6 +6,181 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>HMC Lab Public Resources</title>
+        <description>&lt;p&gt;This document provides resources to help any individual from any background acquire the necessary skills for engaging in the research conducted at the &lt;a href=&quot;https://hmc-lab.com/&quot;&gt;Human and Machine Cognition lab&lt;/a&gt; at the University of Tübingen. The goal is to remove barriers to science, by making it as accessible as possible for motivated individuals.&lt;/p&gt;
+
+&lt;h2 id=&quot;math&quot;&gt;Math&lt;/h2&gt;
+
+&lt;h3 id=&quot;linear-algebra&quot;&gt;Linear Algebra&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://linear.ups.edu/html/fcla.html&quot;&gt;A First Course in Linear Algebra &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pillowlab.princeton.edu/&quot;&gt;Mathematical Tools for Neuroscience (Jonathan Pillow, Princeton)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cs.nyu.edu/~roweis/papers/NC110201.pdf&quot;&gt;Advanced review on linear gaussian systems (Sam Roweis)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/&quot;&gt;Linear Algebra (Gilbert Strang, MIT)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;probability-theory&quot;&gt;Probability Theory&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-916-a-probability-and-causality-in-human-cognition-spring-2003/index.htm&quot;&gt;Probability and Causality in Human Cognition (Josh Tenenbuam, MIT)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projects.iq.harvard.edu/stat110/home&quot;&gt;Stat 110 by Joe Blitzstein&lt;/a&gt; (YouTube lectures + book + hw + solutions)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/tutorial1.pdf&quot;&gt;Probability basics for ML (slides; Chris Cremer, University of Toronto)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;statistics&quot;&gt;Statistics&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://psych252.github.io/&quot;&gt;Statistical Methods for Behavioral and Social Sciences (Tobias Gerstenberg, Stanford)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Statistical Rethinking (Richard McElreath, Max Planck Institute)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc&quot;&gt;Youtube playlist&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/rmcelreath/rethinking/tree/Experimental&quot;&gt;R code&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Regression and other stories (Andrew Gelman, Jennifer Hill, Aki Vehtari)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://avehtari.github.io/ROS-Examples/&quot;&gt;https://avehtari.github.io/ROS-Examples/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;programming&quot;&gt;Programming&lt;/h2&gt;
+
+&lt;h3 id=&quot;basics&quot;&gt;Basics&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://missing.csail.mit.edu/&quot;&gt;Shell commands, GIT, text editors, etc…&lt;/a&gt; (MIT course, available in multiple languages)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;python&quot;&gt;Python&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://towardsdatascience.com/ideal-python-environment-setup-for-data-science-cdb03a447de8&quot;&gt;Setting up Python environment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.learnpython.org/&quot;&gt;https://www.learnpython.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jakevdp.github.io/PythonDataScienceHandbook/&quot;&gt;Python for data science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZDa-Z5JzLYM&quot;&gt;Object Oriented Programming &lt;/a&gt;(Youtube playlist)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;r&quot;&gt;R&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.r-project.org/&quot;&gt;Download and install R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cookbook-r.com/&quot;&gt;R Cookbook (beginners guide)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html&quot;&gt;Data visualization (ggplot)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://r4ds.had.co.nz/index.html&quot;&gt;R for data science (textbook and interactive notebooks)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;matlab&quot;&gt;Matlab&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/learn/matlab&quot;&gt;Introduction to programming with MATLAB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/search?q=cody+matlab&amp;amp;oq=cody+matlab&amp;amp;aqs=chrome..69i57j0i22i30l3.1833j0j4&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&quot;&gt;MATLAB Cody Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;web-programming-for-experiments&quot;&gt;Web programming (for experiments)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://crumplab.github.io/programmingforpsych/web-experiments.html&quot;&gt;Web experiments for Psychologists&lt;/a&gt; (overview)&lt;/li&gt;
+  &lt;li&gt;jsPsych (platform)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.jspsych.org/tutorials/hello-world/&quot;&gt;Tutorial&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.jspsych.org/tutorials/rt-task/&quot;&gt;Demo experiment&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://psiturk.org/&quot;&gt;psiTurk (platform)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.otree.org/&quot;&gt;oTree (platform)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;neuroscience&quot;&gt;Neuroscience&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://compneuro.neuromatch.io/tutorials/intro.html&quot;&gt;Neuromatch Academy: Computational Neuroscience Tutorials&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://training.incf.org/course/introduction-computational-neuroscience&quot;&gt;Introduction to Computational Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;computational-cognitive-science&quot;&gt;Computational Cognitive Science&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/unit-2.-modeling-human-cognition/lecture-2.1-josh-tenenbaum-computational-cognitive-science-part-1/&quot;&gt;Computational cognitive neuroscience lecture (Josh Tenenbaum, MIT)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/brendenlake/CCM-site&quot;&gt;Computational Cognitive modeling course (Brenden Lake and Todd Gureckis, NYU)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://psy-farrell.github.io/computational-modelling//about/&quot;&gt;Computational modeling book and code (Farell &amp;amp; Lewandowsky)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Computational modeling workshop by Charley (&lt;a href=&quot;https://drive.google.com/file/d/1ef_v5MgYWizS00ZMMrJAdK3KcZytMw5M/view?usp=sharing&quot;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://compneuro.neuromatch.io/tutorials/intro.html&quot;&gt;Neuromatch Academy tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reinforcement-learning&quot;&gt;Reinforcement Learning&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://incompleteideas.net/book/RLbook2020.pdf&quot;&gt;Reinforcement Learning&lt;/a&gt; (Sutton &amp;amp; Barto; Sutton’s free online version)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;human-rl&quot;&gt;Human RL&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://compneuro.neuromatch.io/tutorials/W3D4_ReinforcementLearning/W3D4_Intro.html&quot;&gt;Neuromatch tutorial on RL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ccn.berkeley.edu/pdfs/papers/computation_and_cognition_AGEC.pdf&quot;&gt;Reinforcement learning: bringing together computation and cognition (Review paper by Anne Collins)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;deep-rl-with-neural-networks&quot;&gt;Deep RL (with neural networks)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spinningup.openai.com/en/latest/&quot;&gt;Spinning up in Deep RL (OpenAI)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&quot;&gt;Deep Mind RL bootcamp &lt;/a&gt;(Youtube playlist)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;machine-learning&quot;&gt;Machine Learning&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kevin P. Murphy &lt;a href=&quot;http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf&quot;&gt;Machine Learning: A Probabilistic Perspective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kingma &amp;amp; Welling &lt;a href=&quot;https://arxiv.org/pdf/1906.02691.pdf&quot;&gt;An Introduction to Variational Autoencoders&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;graph-learning&quot;&gt;Graph Learning&lt;/h2&gt;
+
+&lt;h3 id=&quot;basic-graph-theory&quot;&gt;Basic Graph Theory&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://faculty.math.illinois.edu/~west/igt/&quot;&gt;Introduction to Graph Theory&lt;/a&gt; Douglas B. West&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;graph-representation&quot;&gt;Graph Representation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf&quot;&gt;Graph Representation Learning&lt;/a&gt; William L. Hamilton, Mcgill&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;graphical-model&quot;&gt;Graphical Model&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf&quot;&gt;Pattern Recognition and Machine Learning&lt;/a&gt; Christopher M. Bishop
+    &lt;ul&gt;
+      &lt;li&gt;Chap8 Graphical Models&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://djsaunde.github.io/read/books/pdfs/probabilistic%20graphical%20models.pdf&quot;&gt;Probabilistic Graphical Models&lt;/a&gt; Daphne Koller&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing&quot;&gt;Writing&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://osf.io/n8pc3/&quot;&gt;Barbara Sarnecka’s Writing workshop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pdfroom.com/books/the-sense-of-style-the-thinking-persons-guide-to-writing-in-the-21st-century/jE1d4kWy5Ob&quot;&gt;Steven Pinker’s - The Sense of Style&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Scientific thinking workshop by Charley (&lt;a href=&quot;https://drive.google.com/file/d/1xs9lL7DF3kuQ3zh_aUxn21v8jb_DgL4C/view?usp=sharing&quot;&gt;slides&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;phd-planning&quot;&gt;PhD planning&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.overleaf.com/read/rvtspghzyhzf&quot;&gt;PhD planning template (created by Richard McElreath)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Sun, 15 May 2022 00:00:00 +0200</pubDate>
+				<link>https://hmc-lab.com/2022/05/15/publicResources.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/2022/05/15/publicResources.html</guid>
+			</item>
+		
+			<item>
 				<title>Lab rotation and thesis projects</title>
         <description>&lt;p&gt;If you’re interested in a lab rotation or writing your thesis in the lab, please take a look at this list of potential projects. Then please email Alexandra Witt (&lt;a href=&quot;mailto:alexandra.witt@gmx.net&quot;&gt;alexandra[dot]witt[at]gmx[dot]net&lt;/a&gt;) with the following items in a single PDF:&lt;/p&gt;
 
