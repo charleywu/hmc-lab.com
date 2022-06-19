@@ -6,6 +6,22 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Postdoc position -- Cumulative Culture in AI</title>
+        <description>&lt;p&gt;We are currently seeking a highly motivated individual to fill a two-year postdoc position studying the human capacity for cumulative culture by developing AI that can distill and transmit social information in a human-like manner. Just as the “cultural explosion” launched the success of the human species, a similar capacity for cultural learning has the potential to unlock more robust, interpretable, and compositional forms of AI.&lt;/p&gt;
+
+&lt;p&gt;Potential topics include: representational exchange between social and individual learning systems, compositionality of individual knowledge with social information, and the inference of causal structure from partial/failed solutions. The exact scope of the research is flexible and will depend on the interests of the canddiate. Note, that you should have a PhD degree in a related discipline before starting this position and prior experience with computational methods is highly desirable. The start date should be as soon as possible and is open to negotiation. Applications are due by &lt;strong&gt;August 15th, 2022&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/2022PostdocCumulativeCultureInAI.pdf&quot;&gt;download the PDF&lt;/a&gt; for more details. The application should be submitted to Charley Wu by email (&lt;a href=&quot;mailto:charley.wu@uni-tuebingen.de&quot;&gt;charley.wu[at]uni-tuebingen[dot]de&lt;/a&gt;) as a single PDF titled “firstname.lastname.pdf”.&lt;/p&gt;
+
+&lt;object data=&quot;/downloads/2022PostdocCumulativeCultureInAI.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<pubDate>Sun, 19 Jun 2022 00:00:00 +0200</pubDate>
+				<link>https://hmc-lab.com/2022/06/19/CumulativeAI.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/2022/06/19/CumulativeAI.html</guid>
+			</item>
+		
+			<item>
 				<title>HMC Lab Public Resources</title>
         <description>&lt;p&gt;This document provides resources to help any individual from any background acquire the necessary skills for engaging in the research conducted at the &lt;a href=&quot;https://hmc-lab.com/&quot;&gt;Human and Machine Cognition lab&lt;/a&gt; at the University of Tübingen. The goal is to remove barriers to science, by making it as accessible as possible for motivated individuals.&lt;/p&gt;
 
@@ -195,22 +211,6 @@
 				<pubDate>Tue, 01 Feb 2022 00:00:00 +0100</pubDate>
 				<link>https://hmc-lab.com/2022/02/01/projects.html</link>
 				<guid isPermaLink="true">https://hmc-lab.com/2022/02/01/projects.html</guid>
-			</item>
-		
-			<item>
-				<title>Postdoc position -- Cumulative Culture in AI</title>
-        <description>&lt;p&gt;We are currently seeking a highly motivated individual to fill a two-year postdoc position studying the human capacity for cumulative culture by developing AI that can distill and transmit social information in a human-like manner. Just as the “cultural explosion” launched the success of the human species, a similar capacity for cultural learning has the potential to unlock more robust, interpretable, and compositional forms of AI.&lt;/p&gt;
-
-&lt;p&gt;Potential topics include: representational exchange between social and individual learning systems, compositionality of individual knowledge with social information, and the inference of causal structure from partial/failed solutions. The exact scope of the research is flexible and will depend on the interests of the canddiate. Note, that you should have a PhD degree in a related discipline before starting this position and prior experience with computational methods is highly desirable. The start date should be as soon as possible and is open to negotiation. Applications are due by &lt;strong&gt;December 15th, 2021&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/2022PostdocCumulativeCultureInAI.pdf&quot;&gt;download the PDF&lt;/a&gt; for more details. The application should be submitted to Charley Wu by email (&lt;a href=&quot;mailto:charley.wu@uni-tuebingen.de&quot;&gt;charley.wu[at]uni-tuebingen[dot]de&lt;/a&gt;) as a single PDF titled “firstname.lastname.pdf”.&lt;/p&gt;
-
-&lt;object data=&quot;/downloads/2022PostdocCumulativeCultureInAI.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
-
-</description>
-				<pubDate>Mon, 15 Nov 2021 00:00:00 +0100</pubDate>
-				<link>https://hmc-lab.com/2021/11/15/CumulativeAI.html</link>
-				<guid isPermaLink="true">https://hmc-lab.com/2021/11/15/CumulativeAI.html</guid>
 			</item>
 		
 			<item>
