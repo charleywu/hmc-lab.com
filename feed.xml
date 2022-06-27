@@ -6,6 +6,22 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>PhD position -- Compositionality in Minds and Machines</title>
+        <description>&lt;p&gt;Together with Prof. Martin Butz of the &lt;a href=&quot;https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/&quot; target=&quot;_blank&quot;&gt;Neuro-Cognitive Modeling&lt;/a&gt; group, we are seeking a highly motivated individual to fill a jointly supervised 3-year PhD position studying &lt;strong&gt;compositional reasoning&lt;/strong&gt;. From exploring variations of a musical motif to generating brand new sentences or entirely novel inventions, humans are able to leverage previously learned structures and generalize them to new contexts. Our aim is to build computational models that capture the human ability to acquire and reuse compositional structures from experience, and apply these structures to novel situations in a one-shot, goal-directed manner.&lt;/p&gt;
+
+&lt;p&gt;Potential topics include: the role of inductive biases in inferring hidden structure from sparse examples, adapting behavior to latent contexts through event-predictive cognition, compositional Theory of Mind for decomposing the inferred goals of other agents into individually relevant subgoals, in addition to the interests of the candidate. Candidates should have a Masters degree in a related discipline before starting this position and prior experience with computational methods is highly desirable. The start date should be as soon as possible and is open to negotiation. Applications are due by &lt;strong&gt;August 15th, 2022&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/2022CompositionalityPhDadvertisement.pdf&quot;&gt;download the PDF&lt;/a&gt; for more details. The application should be submitted to Charley Wu by email (&lt;a href=&quot;mailto:charley.wu@uni-tuebingen.de&quot;&gt;charley.wu[at]uni-tuebingen[dot]de&lt;/a&gt;) as a single PDF titled “firstname.lastname.pdf”.&lt;/p&gt;
+
+&lt;object data=&quot;/downloads/2022CompositionalityPhDadvertisement.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<pubDate>Mon, 27 Jun 2022 00:00:00 +0200</pubDate>
+				<link>https://hmc-lab.com/2022/06/27/Compositionality.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/2022/06/27/Compositionality.html</guid>
+			</item>
+		
+			<item>
 				<title>Postdoc position -- Cumulative Culture in AI</title>
         <description>&lt;p&gt;We are currently seeking a highly motivated individual to fill a two-year postdoc position studying the human capacity for cumulative culture by developing AI that can distill and transmit social information in a human-like manner. Just as the “cultural explosion” launched the success of the human species, a similar capacity for cultural learning has the potential to unlock more robust, interpretable, and compositional forms of AI.&lt;/p&gt;
 
