@@ -6,6 +6,15 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Computational modeling of social and collective behavior</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://cosmos-konstanz.github.io/materials/&quot; target=&quot;_blank&quot;&gt;Interactive code notebooks the COSMOS summer school on computational modeling of social and collective behavior&lt;/a&gt;.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 14 Jul 2022 00:00:00 +0200</pubDate>
+				<link>https://hmc-lab.com/2022/07/14/COSMOS.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/2022/07/14/COSMOS.html</guid>
+			</item>
+		
+			<item>
 				<title>PhD position -- Compositionality in Minds and Machines</title>
         <description>&lt;p&gt;Together with Prof. Martin Butz of the &lt;a href=&quot;https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/&quot; target=&quot;_blank&quot;&gt;Neuro-Cognitive Modeling&lt;/a&gt; group, we are seeking a highly motivated individual to fill a jointly supervised 3-year PhD position studying &lt;strong&gt;compositional reasoning&lt;/strong&gt;. From exploring variations of a musical motif to generating brand new sentences or entirely novel inventions, humans are able to leverage previously learned structures and generalize them to new contexts. Our aim is to build computational models that capture the human ability to acquire and reuse compositional structures from experience, and apply these structures to novel situations in a one-shot, goal-directed manner.&lt;/p&gt;
 
