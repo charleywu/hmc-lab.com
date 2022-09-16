@@ -6,6 +6,18 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Cognitive Maps Seminar (Syllabus)</title>
+        <description>&lt;p&gt;Cognitive maps seminar, for GTC and Cognitive Science masters students. Click here to &lt;a href=&quot;/downloads/cogmapssyllabus.pdf&quot;&gt;download the PDF&lt;/a&gt;.&lt;/p&gt;
+
+&lt;object data=&quot;/downloads/cogmapssyllabus.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<pubDate>Fri, 16 Sep 2022 00:00:00 +0200</pubDate>
+				<link>https://hmc-lab.com/2022/09/16/Cogmaps.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/2022/09/16/Cogmaps.html</guid>
+			</item>
+		
+			<item>
 				<title>Computational modeling of social and collective behavior (code notebooks)</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://cosmos-konstanz.github.io/materials/&quot; target=&quot;_blank&quot;&gt;Interactive code notebooks the COSMOS summer school on computational modeling of social and collective behavior&lt;/a&gt;.&lt;/p&gt;
 </description>
