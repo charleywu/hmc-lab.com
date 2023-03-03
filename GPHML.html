@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>General Principles of Human and Machine Learning</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+  <link href="https://hmc-lab.com/css/zoom.css" rel="stylesheet">
+  <script src="https://hmc-lab.com/js/zoom.js"></script>
+  <script src="https://hmc-lab.com/js/transition.js"></script>
+
+  <link rel="stylesheet" href="/style.css">
+  <!-- favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="https://hmc-lab.com/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://hmc-lab.com/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://hmc-lab.com/favicon/favicon-16x16.png">
+
+  <!-- open graph -->
+
+  
+  
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://hmc-lab.com/GPHML.html">
+  <meta property="og:title" content="General Principles of Human and Machine Learning">
+  <meta property="og:site_name" content="Human and Machine Cognition lab at the University of Tübingen">
+  <meta property="og:description" content="
+  General Principles of Human and Machine Learning
+  posted on March 2, 2023
+  
+  Instructors
+
+Dr. Charley Wu (charley[dot]wu[at]uni-tuebingen[dot..." />
+
+</head>
+
+<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://hmc-lab.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<body id="page-top" style="padding-top: 7em;">
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class='navbar-brand page-scroll' href='/'>
+              <span style='font-family:"Open Sans"; font-weight:300; color: #a51e37'>HMC-lab</span>
+              </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <ul class="nav navbar-nav navbar-right">
+                      
+                      <li><a class='name' href="/">home</a></li>
+                      
+                      <li><a class='name' href="/people">people</a></li>
+                      
+                      <li><a class='name' href="/publication">publications</a></li>
+                      
+                      <li><a class='name' href="/resources">resources</a></li>
+                      
+                    </ul>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+</nav>
+
+    <div class="container content post">
+  <h3><strong>General Principles of Human and Machine Learning</strong><br/>
+  <small>posted on March 2, 2023</small></h3>
+  <hr>
+  <p><strong>Instructors</strong></p>
+
+<p>Dr. Charley Wu (<a href="mailto:charley.wu@uni-tuebingen.de">charley[dot]wu[at]uni-tuebingen[dot]de</a>)<br />
+Dr. Charline Tessereau (<a href="mailto:charline.tessereau@tuebingen.mpg.de">charline[dot]tessereau[at]tuebingen[dot]mpg[dot]de</a>)</p>
+
+<p><strong>Teaching Assistant</strong></p>
+
+<p>Hanqi Zhou (<a href="mailto:hanqi.zhou@uni-tuebingen.de">hanqi[dot]zhou[at]uni-tuebingen[dot]de</a>) <br />
+Turan Orujlu (<a href="mailto:turan.orujlu@uni-tuebingen.de">turan[dot]orujlu[at]uni-tuebingen[dot]de</a>) <br />
+Mani Hamidi (<a href="mailto:manihamidi@gmail.com">manihamidi[at]gmail[dot]come</a>)</p>
+
+<p><strong>General Information</strong></p>
+
+<p>Location: Ground floor seminar room, <a href="https://goo.gl/maps/NL3T6uBxUVAtXLTb7" target="_blank">AI building, Maria-von-Linden-Str. 6, D-72076 Tübingen</a> <br />
+Lecture: Thursdays from 10:00 - 12:00 <br />
+Tutorial: Friday from 16:00 - 18:00 <br />
+Office Hours: TBD <br /></p>
+
+<p><strong>Course description and prerequisites:</strong></p>
+
+<p>The goal of the course is to teach modern approaches to machine learning in parallel with the science of human learning. Theories of human learning have directly inspired algorithms for training artificial agents, while advances in AI have provided novel insights into the nature of human intelligence. Machine learning algorithms are increasingly reaching or exceeding human-level expertise. Yet, they can still be fooled by rather trivial tasks that any human could solve. How have these two fields separately approached the study of artificial and biological intelligence? What are general principles of learning that are shared across human and machine learners?</p>
+
+<p>The course covers how both biological and artificial systems i) learn from experience (Reinforcement Learning), ii) learn about concepts and categories, and ii) learn functions and programs. Each week, there will be one lecture and one tutorial session. No prerequisites are required, but some basic familiarity with linear algebra and basic mathematical notation will be necessary.</p>
+
+<p><strong>Grading</strong></p>
+
+<ul>
+  <li>[70%] Written exam</li>
+  <li>[30%] Pop quizzes. There will be 4 randomly distributed quizzes during tutorial sessions. The grade will be based on the best 3 out of 4. This can be an easy way to increase your grade, but also ensures that everyone is keeping up with the material</li>
+</ul>
+
+<p><strong>Schedule</strong></p>
+
+<p>Lecture: Thursdays from 10:00 - 12:00 <br />
+Tutorial: Friday from 16:00 - 18:00 <br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Date</strong></th>
+      <th><strong>Remarks</strong></th>
+      <th><strong>Readings</strong></th>
+      <th><strong>Lecture</strong></th>
+      <th><strong>Lecturer</strong></th>
+      <th><strong>TA</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Week 1: April 17,18</td>
+      <td> </td>
+      <td><a href="https://letmegooglethat.com/?q=scihub" target="_blank">Spicer &amp; Sanborn (2019). What does the mind learn? doi:10.1016/j.conb.2019.02.004</a></td>
+      <td>Introduction</td>
+      <td>Wu</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Week 2: April 27, 28</td>
+      <td> </td>
+      <td>[1] <a href="https://plato.stanford.edu/entries/behaviorism/" target="_blank">Behaviorism</a> [2] <a href="https://towardsdatascience.com/perceptrons-logical-functions-and-the-xor-problem-37ca5025790a" target="_blank">What is a perceptron? (Blog post)</a></td>
+      <td>Origins of biological and artificial learning</td>
+      <td>Wu</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Week 3: May 4, 5</td>
+      <td> </td>
+      <td><a href="https://www.nature.com/articles/nrn.2016.56" target="_blank">Wikenheiser &amp; Schoenbaum (2016)</a></td>
+      <td>Cognitive maps</td>
+      <td>Wu</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Week 4: May 11,12</td>
+      <td> </td>
+      <td>TBD</td>
+      <td>Introduction to RL</td>
+      <td>Tessereau</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Week 5: May 19</td>
+      <td><em>Christihimmelfahrt</em></td>
+      <td>NA</td>
+      <td><em>No lecture</em></td>
+      <td> </td>
+      <td><em>No tutorial</em></td>
+    </tr>
+    <tr>
+      <td>Week 6: May 25, 26</td>
+      <td> </td>
+      <td>TBD</td>
+      <td>Advances in RL</td>
+      <td>Tessereau</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Week 7: No classes</td>
+      <td><em>Pfinstpause</em></td>
+      <td>NA</td>
+      <td><em>No lecture</em></td>
+      <td> </td>
+      <td><em>No Tutorial</em></td>
+    </tr>
+    <tr>
+      <td>Week 8: June 9</td>
+      <td><em>Fronleichnam</em></td>
+      <td>NA</td>
+      <td><em>No lecture</em></td>
+      <td> </td>
+      <td><em>No Tutorial</em></td>
+    </tr>
+    <tr>
+      <td>Week 9: June 15,16</td>
+      <td> </td>
+      <td><a href="https://nobaproject.com/modules/categories-and-concepts" target="_blank">Murphy (2023)</a></td>
+      <td>Concepts and Categories</td>
+      <td>Wu</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Week 10: June 22,23</td>
+      <td> </td>
+      <td>TBD</td>
+      <td>Supervised and Unsupervised learning</td>
+      <td>Wu</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Week 11: June 29,30</td>
+      <td> </td>
+      <td><a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/595CAA321C9C56270C624057021DE77A/S0140525X01000061a.pdf/generalization_similarity_and_bayesian_inference.pdf" target="_blank">Tenenbaum &amp; Griffiths (2001)</a></td>
+      <td>Generalization</td>
+      <td>Wu</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Week 12: July 6,7</td>
+      <td> </td>
+      <td>TBD</td>
+      <td>Common tools for understanding brains and neural networks</td>
+      <td>Tessereau</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>Week 13: July 13,14</td>
+      <td> </td>
+      <td>TBD</td>
+      <td>Language and semantics</td>
+      <td>Wu</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Week 14: July 20,21</td>
+      <td> </td>
+      <td>TBD</td>
+      <td>General Principles</td>
+      <td>Wu &amp; Tessereau</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>TBD</td>
+      <td>Exams</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!--   <ul class="share-buttons">
+  <a style="color:#3b5998;" href="https://www.facebook.com/sharer/sharer.php?u=https://hmc-lab.com/GPHML.html" title="Share on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+  <a style="color:#0084b4;" href="https://twitter.com/intent/tweet?text=https://hmc-lab.com/GPHML.html" title="Share on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+</ul>
+
+  <div id="disqus_thread"></div> -->
+</div>
+
+
+    <script id="dsq-count-scr" src="//hmc-lab.disqus.com/count.js" async></script>
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+
+</body>
+</html>
