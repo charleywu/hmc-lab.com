@@ -6,6 +6,21 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Research Assistant Position --- Online experiment development</title>
+        <description>&lt;p&gt;We are currently seeking a highly motivated student to fill a paid Research Assistant Position (HiWi) for 6 months, between 10-20 hours per week. The successful candidate will work together with collaborators at Harvard and MIT to develop an online experiment studying the orgin of cultural differences in learning on the basis of Bayesian information theory.&lt;/p&gt;
+
+&lt;p&gt;Candidates should have a strong background in front-end web development (Javascript, HTML, PHP, &amp;amp; SQL) with an interest in cognitive science, Bayesian modeling, and cultural evolution.
+Please see the official call for applications below or &lt;a href=&quot;/downloads/2023RAtransmissionChain.pdf&quot;&gt;download the PDF&lt;/a&gt; for more details. The application deadline is &lt;strong&gt;April 1st, 2023&lt;/strong&gt; and should be submitted to Ryu Uchiyama by email (&lt;a href=&quot;mailto:ryutaro.uchiyama@uni-tuebingen.de&quot;&gt;ryutaro[dot]uchiyama[at]uni-tuebingen[dot]de&lt;/a&gt;) &lt;em&gt;in the exact format specified in the call for applications below&lt;/em&gt;.&lt;/p&gt;
+
+&lt;object data=&quot;/downloads/2023RAtransmissionChain.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<pubDate>Fri, 10 Mar 2023 00:00:00 +0100</pubDate>
+				<link>https://hmc-lab.com/RAonlineExperiments.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/RAonlineExperiments.html</guid>
+			</item>
+		
+			<item>
 				<title>General Principles of Human and Machine Learning</title>
         <description>&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;&lt;/p&gt;
 
