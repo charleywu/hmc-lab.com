@@ -6,21 +6,6 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Research Assistant Position --- Online experiment development</title>
-        <description>&lt;p&gt;We are currently seeking a highly motivated student to fill a paid Research Assistant Position (HiWi) for 6 months, between 10-20 hours per week. The successful candidate will work together with collaborators at Harvard and MIT to develop an online experiment studying the orgin of cultural differences in learning on the basis of Bayesian information theory.&lt;/p&gt;
-
-&lt;p&gt;Candidates should have a strong background in front-end web development (Javascript, HTML, PHP, &amp;amp; SQL) with an interest in cognitive science, Bayesian modeling, and cultural evolution.
-Please see the official call for applications below or &lt;a href=&quot;/downloads/2023RAtransmissionChain.pdf&quot;&gt;download the PDF&lt;/a&gt; for more details. The application deadline is &lt;strong&gt;April 1st, 2023&lt;/strong&gt; and should be submitted to Ryu Uchiyama by email (&lt;a href=&quot;mailto:ryutaro.uchiyama@uni-tuebingen.de&quot;&gt;ryutaro[dot]uchiyama[at]uni-tuebingen[dot]de&lt;/a&gt;) &lt;em&gt;in the exact format specified in the call for applications below&lt;/em&gt;.&lt;/p&gt;
-
-&lt;object data=&quot;/downloads/2023RAtransmissionChain.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
-
-</description>
-				<pubDate>Fri, 10 Mar 2023 00:00:00 +0100</pubDate>
-				<link>https://hmc-lab.com/RAonlineExperiments.html</link>
-				<guid isPermaLink="true">https://hmc-lab.com/RAonlineExperiments.html</guid>
-			</item>
-		
-			<item>
 				<title>General Principles of Human and Machine Learning</title>
         <description>&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;&lt;/p&gt;
 
@@ -73,7 +58,7 @@ Tutorial: Friday from 16:00 - 18:00 &lt;br /&gt;&lt;/p&gt;
     &lt;tr&gt;
       &lt;td&gt;Week 1: April 20,21&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://letmegooglethat.com/?q=scihub&quot; target=&quot;_blank&quot;&gt;Spicer &amp;amp; Sanborn (2019). What does the mind learn? doi:10.1016/j.conb.2019.02.004&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://wrap.warwick.ac.uk/114642/1/WRAP-what-mind-learn-comparison-human-machine-learning-representations-Sanborn-2019.pdf&quot; target=&quot;_blank&quot;&gt;Spicer &amp;amp; Sanborn (2019). What does the mind learn?&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Introduction&lt;/td&gt;
       &lt;td&gt;Wu&lt;/td&gt;
       &lt;td&gt;Hamidi&lt;/td&gt;
@@ -97,7 +82,7 @@ Tutorial: Friday from 16:00 - 18:00 &lt;br /&gt;&lt;/p&gt;
     &lt;tr&gt;
       &lt;td&gt;Week 4: May 11,12&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/j.1460-9568.2012.08050.x&quot; target=&quot;_blank&quot;&gt;Dezfouli &amp;amp; Balleine (2012)&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Introduction to RL&lt;/td&gt;
       &lt;td&gt;Tessereau&lt;/td&gt;
       &lt;td&gt;Zhou&lt;/td&gt;
@@ -113,7 +98,7 @@ Tutorial: Friday from 16:00 - 18:00 &lt;br /&gt;&lt;/p&gt;
     &lt;tr&gt;
       &lt;td&gt;Week 6: May 25, 26&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0010027708002059&quot; target=&quot;_blank&quot;&gt;Botvinick, Niv, &amp;amp; Barto (2009)&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Advances in RL&lt;/td&gt;
       &lt;td&gt;Tessereau&lt;/td&gt;
       &lt;td&gt;Orujlu&lt;/td&gt;
@@ -145,7 +130,7 @@ Tutorial: Friday from 16:00 - 18:00 &lt;br /&gt;&lt;/p&gt;
     &lt;tr&gt;
       &lt;td&gt;Week 10: June 22,23&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://link.springer.com/chapter/10.1007/978-981-19-5936-3_7&quot; target=&quot;_blank&quot;&gt;Varma &amp;amp; Prasad&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Supervised and Unsupervised learning&lt;/td&gt;
       &lt;td&gt;Wu&lt;/td&gt;
       &lt;td&gt;Zhou&lt;/td&gt;
@@ -169,7 +154,7 @@ Tutorial: Friday from 16:00 - 18:00 &lt;br /&gt;&lt;/p&gt;
     &lt;tr&gt;
       &lt;td&gt;Week 13: July 13,14&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.stat.cmu.edu/~cshalizi/350/2008/readings/Landauer-Dumais.pdf&quot; target=&quot;_blank&quot;&gt;Landauer &amp;amp; Dumais (1997)&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Language and semantics&lt;/td&gt;
       &lt;td&gt;Wu&lt;/td&gt;
       &lt;td&gt;Zhou&lt;/td&gt;
@@ -177,7 +162,7 @@ Tutorial: Friday from 16:00 - 18:00 &lt;br /&gt;&lt;/p&gt;
     &lt;tr&gt;
       &lt;td&gt;Week 14: July 20,21&lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://gershmanlab.com/pubs/NeuroAI_critique.pdf&quot; target=&quot;_blank&quot;&gt;Gershman (2023)&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;General Principles&lt;/td&gt;
       &lt;td&gt;Wu &amp;amp; Tessereau&lt;/td&gt;
       &lt;td&gt;Wu&lt;/td&gt;
@@ -196,22 +181,6 @@ Tutorial: Friday from 16:00 - 18:00 &lt;br /&gt;&lt;/p&gt;
 				<pubDate>Thu, 02 Mar 2023 00:00:00 +0100</pubDate>
 				<link>https://hmc-lab.com/GPHML.html</link>
 				<guid isPermaLink="true">https://hmc-lab.com/GPHML.html</guid>
-			</item>
-		
-			<item>
-				<title>Postdoc position -- Representation Learning</title>
-        <description>&lt;p&gt;Together with &lt;a href=&quot;https://www.mpg.de/12309370/biological-cybernetics-dayan&quot; target=&quot;_blank&quot;&gt;Peter Dayan&lt;/a&gt; of the Max Planck Institute for Biological Cybernetics, we are currently seeking a highly motivated individual to fill a two-year postdoc position studying the computational mechanisms of human representation learning.&lt;/p&gt;
-
-&lt;p&gt;Potential topics include: selective attention and generalization in naturalistic environments, representational complexity and the explore-exploit tradeoff, and learning abstractions for compositional reasoning. The exact scope of the research is flexible and will depend on the interests of the candidate. Note, that you should have a PhD degree in a related discipline before starting this position and prior experience with computational methods is highly desirable. The start date should be as soon as possible and is open to negotiation. Applications are due by &lt;strong&gt;November 1st, 2022&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/PostdocRepresentation2022.pdf&quot; target=&quot;_blank&quot;&gt;download the PDF&lt;/a&gt; for more details. The application should be submitted to Susan Fischer by email (&lt;a href=&quot;mailto:susan.fischer@tue.mpg.de&quot;&gt;susan.fischer[at]tue[dot]mpg[dot]de&lt;/a&gt;) as a single PDF titled “firstname.lastname.pdf”.&lt;/p&gt;
-
-&lt;object data=&quot;/downloads/PostdocRepresentation2022.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
-
-</description>
-				<pubDate>Mon, 26 Sep 2022 00:00:00 +0200</pubDate>
-				<link>https://hmc-lab.com/RepresentationPostdoc.html</link>
-				<guid isPermaLink="true">https://hmc-lab.com/RepresentationPostdoc.html</guid>
 			</item>
 		
 			<item>
@@ -383,38 +352,6 @@ Office Hours: Charley (Fridays 14:00-15:00)&lt;br /&gt;
 				<pubDate>Thu, 14 Jul 2022 00:00:00 +0200</pubDate>
 				<link>https://hmc-lab.com/COSMOS2022.html</link>
 				<guid isPermaLink="true">https://hmc-lab.com/COSMOS2022.html</guid>
-			</item>
-		
-			<item>
-				<title>PhD position -- Compositionality in Minds and Machines</title>
-        <description>&lt;p&gt;Together with Prof. Martin Butz of the &lt;a href=&quot;https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/&quot; target=&quot;_blank&quot;&gt;Neuro-Cognitive Modeling&lt;/a&gt; group, we are seeking a highly motivated individual to fill a jointly supervised 3-year PhD position studying &lt;strong&gt;compositional reasoning&lt;/strong&gt;. From exploring variations of a musical motif to generating brand new sentences or entirely novel inventions, humans are able to leverage previously learned structures and generalize them to new contexts. Our aim is to build computational models that capture the human ability to acquire and reuse compositional structures from experience, and apply these structures to novel situations in a one-shot, goal-directed manner.&lt;/p&gt;
-
-&lt;p&gt;Potential topics include: the role of inductive biases in inferring hidden structure from sparse examples, adapting behavior to latent contexts through event-predictive cognition, compositional Theory of Mind for decomposing the inferred goals of other agents into individually relevant subgoals, in addition to the interests of the candidate. Candidates should have a Masters degree in a related discipline before starting this position and prior experience with computational methods is highly desirable. The start date should be as soon as possible and is open to negotiation. Applications are due by &lt;strong&gt;August 15th, 2022&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/2022CompositionalityPhDadvertisement.pdf&quot;&gt;download the PDF&lt;/a&gt; for more details. The application should be submitted to Charley Wu by email (&lt;a href=&quot;mailto:charley.wu@uni-tuebingen.de&quot;&gt;charley.wu[at]uni-tuebingen[dot]de&lt;/a&gt;) as a single PDF titled “firstname.lastname.pdf”.&lt;/p&gt;
-
-&lt;object data=&quot;/downloads/2022CompositionalityPhDadvertisement.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
-
-</description>
-				<pubDate>Mon, 27 Jun 2022 00:00:00 +0200</pubDate>
-				<link>https://hmc-lab.com/Compositionality.html</link>
-				<guid isPermaLink="true">https://hmc-lab.com/Compositionality.html</guid>
-			</item>
-		
-			<item>
-				<title>Postdoc position -- Cumulative Culture in AI</title>
-        <description>&lt;p&gt;We are currently seeking a highly motivated individual to fill a two-year postdoc position studying the human capacity for cumulative culture by developing AI that can distill and transmit social information in a human-like manner. Just as the “cultural explosion” launched the success of the human species, a similar capacity for cultural learning has the potential to unlock more robust, interpretable, and compositional forms of AI.&lt;/p&gt;
-
-&lt;p&gt;Potential topics include: representational exchange between social and individual learning systems, compositionality of individual knowledge with social information, and the inference of causal structure from partial/failed solutions. The exact scope of the research is flexible and will depend on the interests of the canddiate. Note, that you should have a PhD degree in a related discipline before starting this position and prior experience with computational methods is highly desirable. The start date should be as soon as possible and is open to negotiation. Applications are due by &lt;strong&gt;August 15th, 2022&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/2022PostdocCumulativeCultureInAI.pdf&quot;&gt;download the PDF&lt;/a&gt; for more details. The application should be submitted to Charley Wu by email (&lt;a href=&quot;mailto:charley.wu@uni-tuebingen.de&quot;&gt;charley.wu[at]uni-tuebingen[dot]de&lt;/a&gt;) as a single PDF titled “firstname.lastname.pdf”.&lt;/p&gt;
-
-&lt;object data=&quot;/downloads/2022PostdocCumulativeCultureInAI.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
-
-</description>
-				<pubDate>Sun, 19 Jun 2022 00:00:00 +0200</pubDate>
-				<link>https://hmc-lab.com/CumulativeAI.html</link>
-				<guid isPermaLink="true">https://hmc-lab.com/CumulativeAI.html</guid>
 			</item>
 		
 			<item>
@@ -614,22 +551,6 @@ Office Hours: Charley (Fridays 14:00-15:00)&lt;br /&gt;
 			</item>
 		
 			<item>
-				<title>Fully Funded PhD position -- Machine learning for education</title>
-        <description>&lt;p&gt;We are currently seeking a highly motivated individual to fill a fully funded PhD position to develop Machine Learning (ML) methods for aiding human learners in self-directed study. Specifically, we aim to expand upon existing &lt;a href=&quot;https://en.wikipedia.org/wiki/Spaced_repetition&quot;&gt;Spaced Repetition&lt;/a&gt; techniques by leveraging the structure of a knowledge domain to facilitate more targeted learning, since low-level concepts provide important scaffolding for understanding higher-level ones. Ultimately, this project will combine novel methods from ML (e.g., graph neural networks, recommender systems, structured prediction) with cognitive and neurological theories of human learning (e.g., optimal memory rehersal, concept maps, compositional learning).&lt;/p&gt;
-
-&lt;p&gt;The position will be jointly advised by &lt;a href=&quot;https://mlcolab.org/&quot;&gt;Álvaro Tejero-Cantero&lt;/a&gt; and &lt;a href=&quot;/people/charley_wu/index.md&quot;&gt;Charley Wu&lt;/a&gt;, with &lt;a href=&quot;http://icall-research.de/&quot;&gt;Detmar Meurers&lt;/a&gt;, &lt;a href=&quot;https://koumurayama.com/&quot;&gt;Kou Murayama&lt;/a&gt;, and &lt;a href=&quot;http://ml3.leuphana.de/ulf.html&quot;&gt;Ulf Brefeld&lt;/a&gt; serving as additional co-advisors. This PhD position is funded as one of four positions within a network project on &lt;a href=&quot;https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/innovation-fund-projects-1/network-projects/#c1376587&quot;&gt;Machine Learning for Education&lt;/a&gt;, providing additional opportunities for interdisciplinary collaboration among related topics.&lt;/p&gt;
-
-&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/MLinEDlabPhDadvertisement2021.pdf&quot;&gt;download the PDF&lt;/a&gt; for more details. The application should be submitted to Elena Sizana by email (&lt;a href=&quot;mailto:elena.sizana@uni-tuebingen.de&quot;&gt;elena.sizana[at]uni-tuebingen[dot]de&lt;/a&gt;) &lt;em&gt;in the exact format specified in the call for applications below&lt;/em&gt;.&lt;/p&gt;
-
-&lt;object data=&quot;/downloads/MLinEDlabPhDadvertisement2021.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
-
-</description>
-				<pubDate>Wed, 01 Sep 2021 00:00:00 +0200</pubDate>
-				<link>https://hmc-lab.com/MLinEDJobAd.html</link>
-				<guid isPermaLink="true">https://hmc-lab.com/MLinEDJobAd.html</guid>
-			</item>
-		
-			<item>
 				<title>Generalization in Reinforcement Learning (lecture slides)</title>
         <description>&lt;p&gt;Slides from a guest lecture at the University of Ghent. Click here to &lt;a href=&quot;/downloads/GhentRLlecture.pdf&quot;&gt;download the PDF&lt;/a&gt;.&lt;/p&gt;
 
@@ -639,34 +560,6 @@ Office Hours: Charley (Fridays 14:00-15:00)&lt;br /&gt;
 				<pubDate>Tue, 30 Mar 2021 00:00:00 +0200</pubDate>
 				<link>https://hmc-lab.com/GhentRLlecture.html</link>
 				<guid isPermaLink="true">https://hmc-lab.com/GhentRLlecture.html</guid>
-			</item>
-		
-			<item>
-				<title>Fully Funded PhD position -- Computational Mechanisms of Social Learning</title>
-        <description>&lt;p&gt;We are currently seeking a highly motivated individual to fill a fully funded PhD position studying the cognitive strategies that humans use to learn from other people. You should have a Masters degree in a related discipline and experience with computational/experimental/neuroscientific methods will be desirable. Both the start date and the exact research topic are negotiable&lt;/p&gt;
-
-&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/HMClabPhDadvertisement2021.pdf&quot;&gt;download the PDF&lt;/a&gt;. For more information, feel free to contact Charley directly by email (&lt;a href=&quot;mailto:charley.wu@uni-tuebingen.de&quot;&gt;charley.wu[at]uni-tuebingen[dot]de&lt;/a&gt;).&lt;/p&gt;
-
-&lt;object data=&quot;/downloads/HMClabPhDadvertisement2021.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
-
-</description>
-				<pubDate>Thu, 25 Mar 2021 00:00:00 +0100</pubDate>
-				<link>https://hmc-lab.com/JobAd.html</link>
-				<guid isPermaLink="true">https://hmc-lab.com/JobAd.html</guid>
-			</item>
-		
-			<item>
-				<title>Two Fully Funded PhD positions</title>
-        <description>&lt;p&gt;We are currently seeking motivated individuals to fill two fully funded PhD positions studying the computational strategies that allow humans to perform massively scalable inference and rapidly adapt to novel environments, both alone and in social environments. You should have a Masters degree in a related discipline and experience with computational/experimental/neuroscientific methods will be desirable. Both the start date and the exact research topic are negotiable.&lt;/p&gt;
-
-&lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/HMClabPhDadvertisement2020.pdf&quot;&gt;download the PDF&lt;/a&gt;. For more information, feel free to contact Charley directly by email (&lt;a href=&quot;mailto:charleymswu@gmail.com&quot;&gt;charleymswu[at]gmail[dot]com&lt;/a&gt;).&lt;/p&gt;
-
-&lt;object data=&quot;/downloads/HMClabPhDadvertisement.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
-
-</description>
-				<pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
-				<link>https://hmc-lab.com/JobAd.html</link>
-				<guid isPermaLink="true">https://hmc-lab.com/JobAd.html</guid>
 			</item>
 		
 	</channel>
