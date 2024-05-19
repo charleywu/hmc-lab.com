@@ -6,7 +6,62 @@
 		<atom:link href="https://hmc-lab.com/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>General Principles of Human and Machine Learning</title>
+				<title>General Principles of Human and Machine Learning (2024-25 Winter semester)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Instructor&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Charley Wu (&lt;a href=&quot;mailto:charley.wu@uni-tuebingen.de&quot;&gt;charley[dot]wu[at]uni-tuebingen[dot]de&lt;/a&gt;)&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;
+ TBD
+&lt;strong&gt;General Information&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Location: TBD &lt;br /&gt;
+Lecture: TBD &lt;br /&gt;
+Tutorial: TBD &lt;br /&gt;
+Office Hours: Charley (after the lecture)&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Course description and prerequisites:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal of the course is to teach modern approaches to machine learning in parallel with the science of human learning. Theories of human learning have directly inspired algorithms for training artificial agents, while advances in AI have provided novel insights into the nature of human intelligence. Machine learning algorithms are increasingly reaching or exceeding human-level expertise. Yet, they can still be fooled by rather trivial tasks that any human could solve. How have these two fields separately approached the study of artificial and biological intelligence? What are general principles of learning that are shared across human and machine learners?&lt;/p&gt;
+
+&lt;p&gt;The course covers how both biological and artificial systems i) learn from experience (Reinforcement Learning), ii) learn about concepts and categories, and ii) learn functions and programs. Each week, there will be one lecture and one tutorial session. No prerequisites are required, but some basic familiarity with linear algebra and basic mathematical notation will be necessary.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grading&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[80%] Written exam&lt;/li&gt;
+  &lt;li&gt;[20%] Pop quizzes. There will be 4 randomly distributed quizzes during tutorial sessions. The grade will be based on the best 3 out of 4. This can be an easy way to increase your grade, but also ensures that everyone is keeping up with the material&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Schedule&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture: TBD &lt;br /&gt;
+Tutorial: TBD &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Note that readings are still subject to change
+| &lt;strong&gt;Date&lt;/strong&gt; 	| &lt;strong&gt;Remarks&lt;/strong&gt; 	| &lt;strong&gt;Readings&lt;/strong&gt; 	| &lt;strong&gt;Lecture&lt;/strong&gt; 	| &lt;strong&gt;Lecturer&lt;/strong&gt; 	| &lt;strong&gt;TA&lt;/strong&gt; 	|
+|—	|—	|—	|—	|—	|—	|
+| Week 1: 	|  	| &lt;a href=&quot;http://wrap.warwick.ac.uk/114642/1/WRAP-what-mind-learn-comparison-human-machine-learning-representations-Sanborn-2019.pdf&quot; target=&quot;_blank&quot;&gt;Spicer &amp;amp; Sanborn (2019). What does the mind learn?&lt;/a&gt; 	| Introduction 	| Wu 	| TBD |
+| Week 2:	|  	| [1] &lt;a href=&quot;https://plato.stanford.edu/entries/behaviorism/&quot; target=&quot;_blank&quot;&gt;Behaviorism&lt;/a&gt; [2] &lt;a href=&quot;https://towardsdatascience.com/perceptrons-logical-functions-and-the-xor-problem-37ca5025790a&quot; target=&quot;_blank&quot;&gt;What is a perceptron? (Blog post)&lt;/a&gt;	| Origins of biological and artificial learning  | Wu 	| TBD|
+| Week 3: 	|  	| &lt;a href=&quot;https://www.nature.com/articles/nrn.2016.56&quot; target=&quot;_blank&quot;&gt;Wikenheiser &amp;amp; Schoenbaum (2016)&lt;/a&gt; 	| Symbolic AI and Cognitive maps | Wu 	| TBD|
+| Week 4: |  	| &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/j.1460-9568.2012.08050.x&quot; target=&quot;_blank&quot;&gt;Dezfouli &amp;amp; Balleine (2012)&lt;/a&gt; 	| Introduction to RL  | Wu 	| TBD|
+| Week 5: |  	| &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0010027708002059&quot; target=&quot;_blank&quot;&gt;Botvinick, Niv, &amp;amp; Barto (2009)&lt;/a&gt;  	| Advances in RL &lt;a href=&quot;/downloads/teaching/GPHML_lecture5.pdf&quot; target=&quot;_blank&quot;&gt;(slides)&lt;/a&gt;	| Wu 	| TBD|
+| Week 6: 	|  	| &lt;a href=&quot;https://nobaproject.com/modules/categories-and-concepts&quot; target=&quot;_blank&quot;&gt;Murphy (2023)&lt;/a&gt; 	| Concepts and Categories  | Wu 	| TBD|
+| Week 7:|  	| &lt;a href=&quot;https://link.springer.com/chapter/10.1007/978-981-19-5936-3_7&quot; target=&quot;_blank&quot;&gt;Varma &amp;amp; Prasad&lt;/a&gt; 	| Supervised and Unsupervised learning 	| Wu  	|  TBD|
+| Week 8: June 29,30 	|  	| Wu, Meder, &amp;amp; Schulz (in prep); sent via email | Function learning| Wu 	| TBD|
+| Week 9: July 6,7 	|  	| &lt;a href=&quot;https://www.cell.com/neuron/pdf/S0896-6273(20)30468-2.pdf&quot; target=&quot;_blank&quot;&gt;Botvinick et al., 2020&lt;/a&gt; 	| Common tools for understanding brains and neural networks | Wu 	|  TBD|
+| Week 10: July 13,14 	|  	| &lt;a href=&quot;https://www.stat.cmu.edu/~cshalizi/350/2008/readings/Landauer-Dumais.pdf&quot; target=&quot;_blank&quot;&gt;Landauer &amp;amp; Dumais (1997)&lt;/a&gt;	| Language and semantics | Wu 	|  Zhou &lt;a href=&quot;/downloads/teaching/GPHML_Quiz4.pdf&quot; target=&quot;_blank&quot;&gt;(Quiz 4)&lt;/a&gt;	|
+| Week 11: July 20,21 	|  	| &lt;a href=&quot;https://gershmanlab.com/pubs/NeuroAI_critique.pdf&quot; target=&quot;_blank&quot;&gt;Gershman (2023)&lt;/a&gt; | General Principles 	| Wu |  Wu |
+| TBD	| Exam 1 (room TBD) 	|  	|  	|  	|  	|
+| TBD 	| Exam 2 (TBD) 	|  	|  	|  	|  	|&lt;/p&gt;
+</description>
+				<pubDate>Sun, 19 May 2024 00:00:00 +0200</pubDate>
+				<link>https://hmc-lab.com/GPHML.html</link>
+				<guid isPermaLink="true">https://hmc-lab.com/GPHML.html</guid>
+			</item>
+		
+			<item>
+				<title>General Principles of Human and Machine Learning (2023 Summer Semester)</title>
         <description>&lt;p&gt;&lt;strong&gt;Instructors&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Dr. Charley Wu (&lt;a href=&quot;mailto:charley.wu@uni-tuebingen.de&quot;&gt;charley[dot]wu[at]uni-tuebingen[dot]de&lt;/a&gt;)&lt;br /&gt;
