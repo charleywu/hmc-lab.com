@@ -12,8 +12,9 @@
 &lt;p&gt;Dr. Charley Wu (&lt;a href=&quot;mailto:charley.wu@uni-tuebingen.de&quot;&gt;charley[dot]wu[at]uni-tuebingen[dot]de&lt;/a&gt;)&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;
- TBD
-&lt;strong&gt;General Information&lt;/strong&gt;&lt;/p&gt;
+ TBD &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;General Information&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Location: TBD &lt;br /&gt;
 Lecture: TBD &lt;br /&gt;
@@ -38,22 +39,126 @@ Office Hours: Charley (after the lecture)&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Lecture: TBD &lt;br /&gt;
 Tutorial: TBD &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Note that readings are still subject to change
-| &lt;strong&gt;Date&lt;/strong&gt; 	| &lt;strong&gt;Remarks&lt;/strong&gt; 	| &lt;strong&gt;Readings&lt;/strong&gt; 	| &lt;strong&gt;Lecture&lt;/strong&gt; 	| &lt;strong&gt;Lecturer&lt;/strong&gt; 	| &lt;strong&gt;TA&lt;/strong&gt; 	|
-|—	|—	|—	|—	|—	|—	|
-| Week 1: 	|  	| &lt;a href=&quot;http://wrap.warwick.ac.uk/114642/1/WRAP-what-mind-learn-comparison-human-machine-learning-representations-Sanborn-2019.pdf&quot; target=&quot;_blank&quot;&gt;Spicer &amp;amp; Sanborn (2019). What does the mind learn?&lt;/a&gt; 	| Introduction 	| Wu 	| TBD |
-| Week 2:	|  	| [1] &lt;a href=&quot;https://plato.stanford.edu/entries/behaviorism/&quot; target=&quot;_blank&quot;&gt;Behaviorism&lt;/a&gt; [2] &lt;a href=&quot;https://towardsdatascience.com/perceptrons-logical-functions-and-the-xor-problem-37ca5025790a&quot; target=&quot;_blank&quot;&gt;What is a perceptron? (Blog post)&lt;/a&gt;	| Origins of biological and artificial learning  | Wu 	| TBD|
-| Week 3: 	|  	| &lt;a href=&quot;https://www.nature.com/articles/nrn.2016.56&quot; target=&quot;_blank&quot;&gt;Wikenheiser &amp;amp; Schoenbaum (2016)&lt;/a&gt; 	| Symbolic AI and Cognitive maps | Wu 	| TBD|
-| Week 4: |  	| &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/j.1460-9568.2012.08050.x&quot; target=&quot;_blank&quot;&gt;Dezfouli &amp;amp; Balleine (2012)&lt;/a&gt; 	| Introduction to RL  | Wu 	| TBD|
-| Week 5: |  	| &lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0010027708002059&quot; target=&quot;_blank&quot;&gt;Botvinick, Niv, &amp;amp; Barto (2009)&lt;/a&gt;  	| Advances in RL &lt;a href=&quot;/downloads/teaching/GPHML_lecture5.pdf&quot; target=&quot;_blank&quot;&gt;(slides)&lt;/a&gt;	| Wu 	| TBD|
-| Week 6: 	|  	| &lt;a href=&quot;https://nobaproject.com/modules/categories-and-concepts&quot; target=&quot;_blank&quot;&gt;Murphy (2023)&lt;/a&gt; 	| Concepts and Categories  | Wu 	| TBD|
-| Week 7:|  	| &lt;a href=&quot;https://link.springer.com/chapter/10.1007/978-981-19-5936-3_7&quot; target=&quot;_blank&quot;&gt;Varma &amp;amp; Prasad&lt;/a&gt; 	| Supervised and Unsupervised learning 	| Wu  	|  TBD|
-| Week 8: June 29,30 	|  	| Wu, Meder, &amp;amp; Schulz (in prep); sent via email | Function learning| Wu 	| TBD|
-| Week 9: July 6,7 	|  	| &lt;a href=&quot;https://www.cell.com/neuron/pdf/S0896-6273(20)30468-2.pdf&quot; target=&quot;_blank&quot;&gt;Botvinick et al., 2020&lt;/a&gt; 	| Common tools for understanding brains and neural networks | Wu 	|  TBD|
-| Week 10: July 13,14 	|  	| &lt;a href=&quot;https://www.stat.cmu.edu/~cshalizi/350/2008/readings/Landauer-Dumais.pdf&quot; target=&quot;_blank&quot;&gt;Landauer &amp;amp; Dumais (1997)&lt;/a&gt;	| Language and semantics | Wu 	|  Zhou &lt;a href=&quot;/downloads/teaching/GPHML_Quiz4.pdf&quot; target=&quot;_blank&quot;&gt;(Quiz 4)&lt;/a&gt;	|
-| Week 11: July 20,21 	|  	| &lt;a href=&quot;https://gershmanlab.com/pubs/NeuroAI_critique.pdf&quot; target=&quot;_blank&quot;&gt;Gershman (2023)&lt;/a&gt; | General Principles 	| Wu |  Wu |
-| TBD	| Exam 1 (room TBD) 	|  	|  	|  	|  	|
-| TBD 	| Exam 2 (TBD) 	|  	|  	|  	|  	|&lt;/p&gt;
+&lt;p&gt;Note that readings are still subject to change&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;Date&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Remarks&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Readings&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Lecture&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Lecturer&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;TA&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 1:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://wrap.warwick.ac.uk/114642/1/WRAP-what-mind-learn-comparison-human-machine-learning-representations-Sanborn-2019.pdf&quot; target=&quot;_blank&quot;&gt;Spicer &amp;amp; Sanborn (2019). What does the mind learn?&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Introduction&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 2:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;[1] &lt;a href=&quot;https://plato.stanford.edu/entries/behaviorism/&quot; target=&quot;_blank&quot;&gt;Behaviorism&lt;/a&gt; [2] &lt;a href=&quot;https://towardsdatascience.com/perceptrons-logical-functions-and-the-xor-problem-37ca5025790a&quot; target=&quot;_blank&quot;&gt;What is a perceptron? (Blog post)&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Origins of biological and artificial learning&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 3:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.nature.com/articles/nrn.2016.56&quot; target=&quot;_blank&quot;&gt;Wikenheiser &amp;amp; Schoenbaum (2016)&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Symbolic AI and Cognitive maps&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 4:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1111/j.1460-9568.2012.08050.x&quot; target=&quot;_blank&quot;&gt;Dezfouli &amp;amp; Balleine (2012)&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Introduction to RL&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 5:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.sciencedirect.com/science/article/pii/S0010027708002059&quot; target=&quot;_blank&quot;&gt;Botvinick, Niv, &amp;amp; Barto (2009)&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Advances in RL&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 6:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://nobaproject.com/modules/categories-and-concepts&quot; target=&quot;_blank&quot;&gt;Murphy (2023)&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Concepts and Categories&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 7:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://link.springer.com/chapter/10.1007/978-981-19-5936-3_7&quot; target=&quot;_blank&quot;&gt;Varma &amp;amp; Prasad&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Supervised and Unsupervised learning&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 8:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;Wu, Meder, &amp;amp; Schulz (in prep); sent via email&lt;/td&gt;
+      &lt;td&gt;Function learning&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 9:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.cell.com/neuron/pdf/S0896-6273(20)30468-2.pdf&quot; target=&quot;_blank&quot;&gt;Botvinick et al., 2020&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Common tools for understanding brains and neural networks&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 10:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.stat.cmu.edu/~cshalizi/350/2008/readings/Landauer-Dumais.pdf&quot; target=&quot;_blank&quot;&gt;Landauer &amp;amp; Dumais (1997)&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Language and semantics&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Week 11:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://gershmanlab.com/pubs/NeuroAI_critique.pdf&quot; target=&quot;_blank&quot;&gt;Gershman (2023)&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;General Principles&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+      &lt;td&gt;Wu&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Exam 1&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Exam 2&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 </description>
 				<pubDate>Sun, 19 May 2024 00:00:00 +0200</pubDate>
 				<link>https://hmc-lab.com/GPHML.html</link>
@@ -411,7 +516,7 @@ Office Hours: Charley (Fridays 14:00-15:00)&lt;br /&gt;
 			</item>
 		
 			<item>
-				<title>Computational modeling of social and collective behavior (code notebooks)</title>
+				<title>Computational modeling of social and collective behavior (COSMOS summer school)</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://cosmos-konstanz.github.io/materials/&quot; target=&quot;_blank&quot;&gt;Interactive code notebooks the COSMOS summer school on computational modeling of social and collective behavior&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<pubDate>Thu, 14 Jul 2022 00:00:00 +0200</pubDate>
