@@ -15,7 +15,7 @@
 
 &lt;p&gt;Please see the official call for applications below or &lt;a href=&quot;/downloads/jobs/ERC_Postdoc.pdf&quot; target=&quot;_blank&quot;&gt;download the PDF&lt;/a&gt; for more details.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Submit your application here&lt;/strong&gt;: &lt;a href=&quot;https://www.career.tu-darmstadt.de/HPv3.ApplicationForm/ShortApply/Index/48028&quot;&gt;https://www.career.tu-darmstadt.de/HPv3.ApplicationForm/ShortApply/Index/48028&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Submit your application here&lt;/strong&gt;: &lt;a href=&quot;https://www.career.tu-darmstadt.de/HPv3.ApplicationForm/ShortApply/Index/48028&quot;&gt;https://www.career.tu-darmstadt.de/HPv3.ApplicationForm/ShortApply/Index/48028&lt;/a&gt;. You do not need to complete all fields in the application portal; please &lt;em&gt;do not&lt;/em&gt; upload a photo, as we aim to reduce bias in the evaluation process.&lt;/p&gt;
 
 &lt;object data=&quot;/downloads/jobs/ERC_Postdoc.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
 
@@ -771,19 +771,21 @@ Office Hours: Charley (Fridays 14:00-15:00)&lt;br /&gt;
 		
 			<item>
 				<title>Lab rotation and thesis projects</title>
-        <description>&lt;p&gt;&lt;strong&gt;Last updated Apr 7th, 2025&lt;/strong&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Last updated June 18th, 2025&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;If you’re interested in a lab rotation or writing your thesis in the lab, please take a look at this list of potential projects (&lt;a href=&quot;/downloads/HMCLabprojects.pdf&quot; target=&quot;_blank&quot;&gt;pdf link&lt;/a&gt; or see below).&lt;/p&gt;
+&lt;p&gt;Because the lab is currently in the process of moving to TU Darmstadt, we are not able to offer any new lab rotations or thesis projects at the moment. Please stay tuned for new projects!&lt;/p&gt;
 
-&lt;p&gt;Then please email Alexandra Witt (&lt;a href=&quot;mailto:Alexandra.Witt@gmx.net&quot;&gt;Alexandra[dot]Witt[at]gmx[dot]net&lt;/a&gt;) with the following items in a single PDF:&lt;/p&gt;
+&lt;!--
+If you're interested in a lab rotation or writing your thesis in the lab, please take a look at this list of potential projects ([pdf link](/downloads/HMCLabprojects.pdf){:target=&quot;_blank&quot;} or see below). 
 
-&lt;ol&gt;
-  &lt;li&gt;1 page cover letter formulating some research questions you would be interested in answering for one or more projects below&lt;/li&gt;
-  &lt;li&gt;Current CV with links to publically accessible code samples&lt;/li&gt;
-&lt;/ol&gt;
+Then please email Alexandra Witt ([Alexandra[dot]Witt[at]gmx[dot]net](mailto:Alexandra.Witt@gmx.net)) with the following items in a single PDF: 
 
-&lt;object data=&quot;/downloads/HMCLabprojects.pdf&quot; width=&quot;100%&quot; height=&quot;1000&quot; type=&quot;application/pdf&quot; /&gt;
+1. 1 page cover letter formulating some research questions you would be interested in answering for one or more projects below 
+2. Current CV with links to publically accessible code samples
 
+&lt;object data=&quot;/downloads/HMCLabprojects.pdf&quot; width=&quot;100%&quot; height = &quot;1000&quot; type='application/pdf'/&gt;
+
+--&gt;
 </description>
 				<pubDate>Tue, 01 Feb 2022 00:00:00 +0100</pubDate>
 				<link>https://hmc-lab.com/projects.html</link>
